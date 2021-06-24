@@ -7,7 +7,7 @@
     "node": "10.19.0"
   },
   "scripts": {
-    "start": "sudo nodemon index.js",
+    "start": "nodemon index.js",
     "seed": "node seed.js",
     "test": "jest --watchAll --verbose"
   },
