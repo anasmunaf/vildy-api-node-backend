@@ -1,6 +1,6 @@
 {
   "jwtPrivateKey": "unsecureKey",
-  "db": "mongodb://localhost/vidly",
+  "db": "vidly-bitbolt",
   "port": "3900",
   "requiresAuth": true
 }
